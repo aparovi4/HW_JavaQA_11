@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ead93363-9c39-45f8-9aef-314e89898033" name="Changes" comment="finaly" />
+    <list default="true" id="ead93363-9c39-45f8-9aef-314e89898033" name="Changes" comment="finaly2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MoviesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MoviesTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +57,7 @@
       <command value="mvn -X" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MoviesTest.findLast10Films">
+  <component name="RunManager" selected="JUnit.MoviesTest">
     <configuration name="MoviesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HW_JavaQA_11" />
       <option name="PACKAGE_NAME" value="" />
@@ -86,8 +89,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MoviesTest.findLast10Films" />
         <item itemvalue="JUnit.MoviesTest" />
+        <item itemvalue="JUnit.MoviesTest.findLast10Films" />
         <item itemvalue="JUnit.MoviesTest.add0Films" />
       </list>
     </recent_temporary>
@@ -115,12 +118,31 @@
       <option name="project" value="LOCAL" />
       <updated>1677318985499</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finaly2">
+      <created>1677322476932</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677322476932</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="finaly" />
-    <option name="LAST_COMMIT_MESSAGE" value="finaly" />
+    <MESSAGE value="finaly2" />
+    <option name="LAST_COMMIT_MESSAGE" value="finaly2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/MoviesTest.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
